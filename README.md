@@ -6,9 +6,9 @@
 
 4- pkg install python-pip
 
-5- git clone https://github.com/CPMAyan/cpmayan.git
+5- git clone https://github.com/2rum006/goodmafia.git
 
-6- cd cpmayan
+6- cd goodmafia
 
 7- git pull
 
