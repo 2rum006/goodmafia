@@ -1,17 +1,17 @@
-1- pkg update
+pkg update
 
-2- pkg install git
+pkg install git
 
-3- pkg install python
+pkg install python
 
-4- pkg install python-pip
+pkg install python-pip
 
-5- git clone https://github.com/2rum006/goodmafia.git
+git clone https://github.com/2rum006/goodmafia.git
 
-6- cd goodmafia
+cd goodmafia
 
-7- git pull
+git pull
 
-8- pip install -r requirements.txt
+pip install -r requirements.txt
 
-9- python main.py
+python main.py
